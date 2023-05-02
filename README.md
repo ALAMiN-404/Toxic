@@ -10,7 +10,7 @@ pkg upgrade -y
 pkg install git -y
 pkg install python -y
 pkg install python2 -y
-python3 -m pip install --upgrade pip
+python -m pip install --upgrade pip
 pip install requests
 pip install mechanize
 pip install future
