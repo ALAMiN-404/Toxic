@@ -1,0 +1,2 @@
+import toxic
+toxic.toxic()
