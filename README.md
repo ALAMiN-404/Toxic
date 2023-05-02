@@ -1,5 +1,5 @@
-# OLDID08-11
-# This Tool is OLD ID CLONING 2008-2011
+# Toxic Clone
+# This Tool is File Cloning & Random Clone
 
 # Installation 
 
