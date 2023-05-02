@@ -14,9 +14,9 @@ python3 -m pip install --upgrade pip
 pip install requests
 pip install mechanize
 pip install future
-git clone 
-cd 
-python 
+git clone https://github.com/Cyber-ALAMiN/Toxic
+cd Toxic
+python ALAMiN.py
 
 ```
  
